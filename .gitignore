@@ -1,0 +1,17 @@
+# Node modules (if you ever add npm later)
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Build/Dist (if you add bundlers in future)
+dist/
+build/
