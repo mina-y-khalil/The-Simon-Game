@@ -6,6 +6,8 @@
 
 A classic memory game built with **HTML**, **CSS**, **JavaScript**, and **jQuery**.
 
+🔗 <a href="https://mina-y-khalil.github.io/The-Simon-Game/" target="_blank">Live Demo</a>
+
 ---
 
 ## 🎮 Gameplay
@@ -15,6 +17,12 @@ Repeat the color sequence shown by the game. Each level adds one more color. One
 - **Start:** Press any key (or click, if enabled).
 - **Input:** Click the colored pads in order.
 - **Game Over:** Screen flashes and title updates; press any key to restart.
+
+---
+
+## Learn More About the Classic Simon Game
+
+Want to know the history or rules of the original electronic memory game _Simon_? Check out the Wikipedia page for **[Simon (game)](<https://en.wikipedia.org/wiki/Simon_(game)>)**. It covers the gameplay mechanics, invention history, and cultural impact of the game. :contentReference[oaicite:0]{index=0}
 
 ---
 
