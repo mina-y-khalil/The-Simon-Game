@@ -68,3 +68,15 @@ footer a {
   color: white;
   /* text-decoration: none; */
 }
+
+.restart-button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /* padding: 10px ; */
+  font-size: 16px;
+  /* background-color: #4CAF50; */
+  /* color: white; */
+  /* border: none; */
+  border-radius: 5px;
+  cursor: pointer;
+}
