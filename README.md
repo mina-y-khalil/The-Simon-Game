@@ -24,7 +24,7 @@ Repeat the color sequence shown by the game. Each level adds one more color. One
 
 ## Learn More About the Classic Simon Game
 
-## Want to know the history or rules of the original electronic memory game _Simon_? Check out the Wikipedia page for **[Simon (game)](<https://en.wikipedia.org/wiki/Simon_(game)>)**. It covers the gameplay mechanics, invention history, and cultural impact of the game.
+Want to know the history or rules of the original electronic memory game _Simon_? Check out the Wikipedia page for **[Simon (game)](<https://en.wikipedia.org/wiki/Simon_(game)>)**. It covers the gameplay mechanics, invention history, and cultural impact of the game.
 
 ## 🧠 What This Project Demonstrates (jQuery)
 
